@@ -2,8 +2,5 @@ chennai
 Mumbai
 banglore
 hydrabad
-<<<<<<< HEAD
-=======
-thanjavur
->>>>>>> 0f367909359d78c40df7ed6683608eeb91e618ba
+
 
